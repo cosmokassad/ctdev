@@ -1,0 +1,9 @@
+E:\Projects\testing\testing\bin\Debug\testing.exe.config
+E:\Projects\testing\testing\bin\Debug\testing.exe
+E:\Projects\testing\testing\bin\Debug\testing.pdb
+E:\Projects\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+E:\Projects\testing\testing\obj\Debug\testing.Properties.Resources.resources
+E:\Projects\testing\testing\obj\Debug\testing.csproj.GenerateResource.cache
+E:\Projects\testing\testing\obj\Debug\testing.exe
+E:\Projects\testing\testing\obj\Debug\testing.pdb
+E:\Projects\testing\testing\obj\Debug\testing.OpponentKiller.resources
